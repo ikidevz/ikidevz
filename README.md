@@ -56,9 +56,6 @@ These repositories demonstrate end-to-end Data Engineering skills — from scala
 - **[ETL-Table-Driven](https://github.com/ikigamisama/ETL-Table-Driven)**  
   A production-grade, metadata-driven ETL pipeline framework where all business logic lives in config — not code. Adding a new pipeline requires zero Python. You drop a JSON file and run.
 
-- **[Walletflow-PH](https://github.com/ikigamisama/Walletflow-PH)**  
-  Real-time wallet transaction analytics using Spark Streaming + Kafka, including rule-based fraud detection patterns.
-
 - **[RemitFlowPH](https://github.com/ikigamisama/RemitFlowPH)**  
   Microservices-based remittance processing pipeline with TimescaleDB for time-series storage and Streamlit dashboards.
 
