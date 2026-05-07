@@ -120,13 +120,13 @@ Prioritizing **data engineering** tools; web dev background adds full-stack cont
 
 | Category          | Tools/Skills                                                                 | Proficiency |
 |-------------------|-----------------------------------------------------------------------------|-------------|
-| **Orchestration** | Airflow, dbt, Docker                                                        | Advanced   |
+| **Orchestration** | Airflow, dbt, Docker                                                        | Intermediate  |
 | **Big Data**      | Spark (Structured Streaming), Kafka/Redpanda, PostgreSQL/TimescaleDB        | Intermediate |
-| **Languages**     | Python, SQL, JavaScript/TypeScript                                          | Advanced   |
+| **Languages**     | Python, SQL, JavaScript/TypeScript                                          | Intermediate  |
 | **Data Quality**  | Great Expectations, Idempotency, PII Handling, Fraud Rules                  | Intermediate |
-| **Cloud/DevOps**  | Heroku, Vercel, DigitalOcean, Render, Git, CI/CD                            | Intermediate |
-| **Analytics/ML**  | Pandas, NumPy, Scikit-learn, Matplotlib/Plotly, Keras/TensorFlow            | Basic      |
-| **Web/Frontend**  | FastAPI, React/Next.js, GraphQL, Prisma/Supabase                             | Advanced   |
+| **Cloud/DevOps**  | Heroku, Vercel, DigitalOcean, Render, Git, CI/CD                            | Basic        |
+| **Analytics/ML**  | Pandas, NumPy, Scikit-learn, Matplotlib/Plotly, Keras/TensorFlow            | Basic        |
+| **Web/Frontend**  | FastAPI, React/Next.js, GraphQL, Prisma/Supabase                            | Intermediate  |
 
 ### 🔧 Visual Tech Badges
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) 
