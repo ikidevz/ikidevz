@@ -54,22 +54,20 @@ These repositories demonstrate end-to-end Data Engineering skills — from scala
 ### Data Engineering & Pipelines
 
 - **[ETL-Table-Driven](https://github.com/ikigamisama/ETL-Table-Driven)**  
-  A production-grade, metadata-driven ETL pipeline framework where all business logic lives in config — not code. Adding a new pipeline requires zero Python. You drop a JSON file and run.
+  A production-grade, metadata-driven ETL pipeline framework where all business logic lives in configuration — not code. Adding a new pipeline requires zero Python. Just drop a JSON file and run.
 
 - **[RemitFlowPH](https://github.com/ikigamisama/RemitFlowPH)**  
   Microservices-based remittance processing pipeline with TimescaleDB for time-series storage and Streamlit dashboards.
 
-- **[DataLakehouse-Delta](https://github.com/ikigamisama/DataLakehouse-Delta)**  
-  Production-grade Data Lakehouse implementation using Delta Lake (ACID transactions, time travel, schema enforcement).
+- **[Landed Cost Calculator — Logistic Data Pipeline](https://github.com/ikidevz/Landed-Cost-Calculator-Logistic-Data-Pipeline)**  
+  End-to-end production-grade pipeline for Philippine import logistics. Calculates full landed costs (tariffs, duties, VAT, port fees) with Kafka streaming, Apache Airflow, PostgreSQL, dbt, and Metabase dashboards.
 
-- **[ETL_Innovation_Connectivity](https://github.com/ikigamisama/ETL_Innovation_Connectivity)**  
-  Airflow-orchestrated medallion architecture ETL pipeline with Great Expectations for data quality, monitoring, and alerting.
+- **[PH Port Congestion Monitor Data Pipeline](https://github.com/ikidevz/PH-Port-Congestion-Monitor-Data-Pipeline)**  
+  Real-time and batch data pipeline monitoring vessel activity and congestion at major Philippine ports. Built with Airflow, dbt (Medallion architecture), PostgreSQL, and Grafana.
 
-- **[finance_analytics_dbt](https://github.com/ikigamisama/finance_analytics_dbt)**  
-  100+ dbt models for banking/financial analytics — Kimball dimensional modeling, SCD Type 2, incremental processing, testing & documentation.
+- **[Retail Medallion Data Pipeline](https://github.com/ikidevz/Retail-Medallion-Data-Pipeline)**  
+  Full Medallion Architecture (Bronze → Silver → Gold) implementation for retail data. Features synthetic data generation, Polars processing, Star Schema modeling, and layered Airflow DAGs across 50+ Philippine stores.
 
-- **[Iki-Scraper](https://github.com/ikigamisama/Iki-Scraper)**  
-  High-performance async web scraper built with Playwright — robust error handling, retries, proxy support, designed for ETL ingestion.
 
 ### Analytics & Visualization Platforms
 
@@ -109,6 +107,9 @@ These repositories demonstrate end-to-end Data Engineering skills — from scala
 ### Tools, References & Utilities
 - **[SyntheticDataCrafter](https://github.com/ikigamisama/SyntheticDataCrafter)**  
   Fluent, developer-friendly Python API for generating statistically realistic synthetic datasets with multi-format export.
+
+- **[Iki-Scraper](https://github.com/ikigamisama/Iki-Scraper)**  
+  High-performance async web scraper built with Playwright — robust error handling, retries, proxy support, designed for ETL ingestion.
 
 - **[The Modern Data Stack Cheat Sheet](https://github.com/ikigamisama/Modern-Data-Stack-Cheat-Sheet)**  
   Practical, engineering-focused reference guide covering tools, patterns, and decisions in the modern data ecosystem.
