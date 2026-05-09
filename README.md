@@ -68,7 +68,7 @@ These repositories demonstrate end-to-end Data Engineering skills — from scala
 - **[Retail Medallion Data Pipeline](https://github.com/ikidevz/Retail-Medallion-Data-Pipeline)**  
   Full Medallion Architecture (Bronze → Silver → Gold) implementation for retail data. Features synthetic data generation, Polars processing, Star Schema modeling, and layered Airflow DAGs across 50+ Philippine stores.
 
-- **[BSP-AMLA-Compliance-Suspicious-Transaction-Reporting-Pipeline]([https://github.com/ikidevz/Retail-Medallion-Data-Pipeline](https://github.com/ikidevz/BSP-AMLA-Compliance-Suspicious-Transaction-Reporting-Pipeline)**  
+- **[BSP-AMLA-Compliance-Suspicious-Transaction-Reporting-Pipeline](https://github.com/ikidevz/BSP-AMLA-Compliance-Suspicious-Transaction-Reporting-Pipeline)**  
   A production-grade Apache Airflow + dbt data pipeline for BSP (Bangko Sentral ng Pilipinas) Anti-Money Laundering (AML) compliance automation. It generates synthetic banking transactions, detects AML patterns, and produces AMLC-ready Covered Transaction Reports (CTR) and Suspicious Transaction Reports (STR).
 
 
