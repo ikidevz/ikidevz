@@ -71,6 +71,9 @@ These repositories demonstrate end-to-end Data Engineering skills — from scala
 - **[BSP-AMLA-Compliance-Suspicious-Transaction-Reporting-Pipeline](https://github.com/ikidevz/BSP-AMLA-Compliance-Suspicious-Transaction-Reporting-Pipeline)**  
   A production-grade Apache Airflow + dbt data pipeline for BSP (Bangko Sentral ng Pilipinas) Anti-Money Laundering (AML) compliance automation. It generates synthetic banking transactions, detects AML patterns, and produces AMLC-ready Covered Transaction Reports (CTR) and Suspicious Transaction Reports (STR).
 
+- **[PH-Multi-Subsidiary-Data-Lakehouse](https://github.com/ikidevz/PH-Multi-Subsidiary-Data-Lakehouse)**  
+  A production-grade Philippine conglomerate data platform with real CRUD operations, change data capture (CDC), and medallion architecture. Eight department microservices (FastAPI) with persistent PostgreSQL databases. Debezium captures all changes via Kafka CDC. Airflow orchestrates medallion transformations. Apache Superset provides BI dashboards.
+
 
 ### Analytics & Visualization Platforms
 
