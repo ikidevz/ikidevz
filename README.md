@@ -114,11 +114,14 @@ These repositories demonstrate end-to-end Data Engineering skills — from scala
 - **[SyntheticDataCrafter](https://github.com/ikigamisama/SyntheticDataCrafter)**  
   Fluent, developer-friendly Python API for generating statistically realistic synthetic datasets with multi-format export.
 
-- **[Iki-Scraper](https://github.com/ikigamisama/Iki-Scraper)**  
-  High-performance async web scraper built with Playwright — robust error handling, retries, proxy support, designed for ETL ingestion.
-
 - **[The Modern Data Stack Cheat Sheet](https://github.com/ikigamisama/Modern-Data-Stack-Cheat-Sheet)**  
   Practical, engineering-focused reference guide covering tools, patterns, and decisions in the modern data ecosystem.
+
+- **[Iki_Scraper](https://github.com/ikidevz/Iki_Scraper)**  
+  A tool for data scrapers with Advanced asynchronous web scraping framework with proxy rotation, human behavior simulation, and robust architecture.
+
+- **[iki-dq-check](https://github.com/ikidevz/Iki_DQ_Check)**  
+  A production-grade Python library and CLI tool for validating data quality across 25 checks, organized into 3 progressive tiers — Lite, Standard, and Advanced
 
 
 ## 🛠️ Skills & Tech Stack
