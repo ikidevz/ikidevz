@@ -56,9 +56,6 @@ These repositories demonstrate end-to-end Data Engineering skills — from scala
 - **[ETL-Table-Driven](https://github.com/ikigamisama/ETL-Table-Driven)**  
   A production-grade, metadata-driven ETL pipeline framework where all business logic lives in configuration — not code. Adding a new pipeline requires zero Python. Just drop a JSON file and run.
 
-- **[RemitFlowPH](https://github.com/ikigamisama/RemitFlowPH)**  
-  Microservices-based remittance processing pipeline with TimescaleDB for time-series storage and Streamlit dashboards.
-
 - **[Landed Cost Calculator — Logistic Data Pipeline](https://github.com/ikidevz/Landed-Cost-Calculator-Logistic-Data-Pipeline)**  
   End-to-end production-grade pipeline for Philippine import logistics. Calculates full landed costs (tariffs, duties, VAT, port fees) with Kafka streaming, Apache Airflow, PostgreSQL, dbt, and Metabase dashboards.
 
@@ -73,6 +70,9 @@ These repositories demonstrate end-to-end Data Engineering skills — from scala
 
 - **[PH-Multi-Subsidiary-Data-Lakehouse](https://github.com/ikidevz/PH-Multi-Subsidiary-Data-Lakehouse)**  
   A production-grade Philippine conglomerate data platform with real CRUD operations, change data capture (CDC), and medallion architecture. Eight department microservices (FastAPI) with persistent PostgreSQL databases. Debezium captures all changes via Kafka CDC. Airflow orchestrates medallion transformations. Apache Superset provides BI dashboards.
+  
+- **[RemitFlowPH](https://github.com/ikigamisama/RemitFlowPH)**  
+  Microservices-based remittance processing pipeline with TimescaleDB for time-series storage and Streamlit dashboards.
 
 
 ### Analytics & Visualization Platforms
@@ -122,6 +122,9 @@ These repositories demonstrate end-to-end Data Engineering skills — from scala
 
 - **[iki-dq-check](https://github.com/ikidevz/Iki_DQ_Check)**  
   A production-grade Python library and CLI tool for validating data quality across 25 checks, organized into 3 progressive tiers — Lite, Standard, and Advanced
+
+- **[Iki_PII_Masker]([https://github.com/ikidevz/Iki_DQ_Check](https://github.com/ikidevz/Iki_PII_Masker))**  
+  A production-grade, pipe-friendly CLI tool for data engineers and analysts who need to sanitize datasets fast — without wrestling with config files or heavyweight frameworks
 
 
 ## 🛠️ Skills & Tech Stack
