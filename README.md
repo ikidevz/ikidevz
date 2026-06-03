@@ -120,7 +120,7 @@ These repositories demonstrate end-to-end Data Engineering skills — from scala
 - **[iki-dq-check](https://github.com/ikidevz/Iki_DQ_Check)**  
   A production-grade Python library and CLI tool for validating data quality across 25 checks, organized into 3 progressive tiers — Lite, Standard, and Advanced
 
-- **[Iki_PII_Masker]([https://github.com/ikidevz/Iki_DQ_Check](https://github.com/ikidevz/Iki_PII_Masker))**  
+- **[Iki_PII_Masker](https://github.com/ikidevz/Iki_PII_Masker)**  
   A production-grade, pipe-friendly CLI tool for data engineers and analysts who need to sanitize datasets fast — without wrestling with config files or heavyweight frameworks
 
 - **[The Modern Data Stack Cheat Sheet](https://github.com/ikigamisama/Modern-Data-Stack-Cheat-Sheet)**  
