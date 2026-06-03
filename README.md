@@ -111,11 +111,8 @@ These repositories demonstrate end-to-end Data Engineering skills — from scala
   Interactive Streamlit app for calculating Capital Asset Pricing Model (CAPM) on Philippine Stock Exchange (PSEI) data.
 
 ### Tools, References & Utilities
-- **[SyntheticDataCrafter](https://github.com/ikigamisama/SyntheticDataCrafter)**  
-  Fluent, developer-friendly Python API for generating statistically realistic synthetic datasets with multi-format export.
-
-- **[The Modern Data Stack Cheat Sheet](https://github.com/ikigamisama/Modern-Data-Stack-Cheat-Sheet)**  
-  Practical, engineering-focused reference guide covering tools, patterns, and decisions in the modern data ecosystem.
+- **[IkiDataGenerator](https://github.com/ikidevz/IkiDataGenerator)**  
+  Generate realistic, diverse synthetic data with 700+ built-in fields across 22 categories. Perfect for testing, development, and prototyping — without the legal baggage of real data.
 
 - **[Iki_Scraper](https://github.com/ikidevz/Iki_Scraper)**  
   A tool for data scrapers with Advanced asynchronous web scraping framework with proxy rotation, human behavior simulation, and robust architecture.
@@ -125,6 +122,9 @@ These repositories demonstrate end-to-end Data Engineering skills — from scala
 
 - **[Iki_PII_Masker]([https://github.com/ikidevz/Iki_DQ_Check](https://github.com/ikidevz/Iki_PII_Masker))**  
   A production-grade, pipe-friendly CLI tool for data engineers and analysts who need to sanitize datasets fast — without wrestling with config files or heavyweight frameworks
+
+- **[The Modern Data Stack Cheat Sheet](https://github.com/ikigamisama/Modern-Data-Stack-Cheat-Sheet)**  
+  Practical, engineering-focused reference guide covering tools, patterns, and decisions in the modern data ecosystem.
 
 
 ## 🛠️ Skills & Tech Stack
