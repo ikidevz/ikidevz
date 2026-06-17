@@ -75,7 +75,7 @@ These are my **production-ready, open-source tools** designed to solve real pain
   Advanced asynchronous web scraping framework powered by Playwright. Clean verb-first API with structured extraction, table parsing, change detection, resumable runs, and sitemap discovery.
 
 - **[Iki_PII_Masker](https://github.com/ikidevz/Iki_PII_Masker)**
-  ![IkiDataGenerator](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+  ![Iki_PII_Masker](https://raw.githubusercontent.com/ikidevz/Iki_PII_Masker/main/assets/readme.png)
   Fast, pipe-friendly CLI + library for sanitizing PII. 10+ strategies (fake, redact, hash, reversible AES, etc.), auto-detection, multi-format support, and dry-run capabilities.
 
 - **[Iki_DQ_Check](https://github.com/ikidevz/Iki_DQ_Check)**
