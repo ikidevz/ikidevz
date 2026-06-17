@@ -62,19 +62,24 @@
 
 These are my **production-ready, open-source tools** designed to solve real pain points for data professionals:
 
-- **[IkiDataGenerator](https://github.com/ikidevz/IkiDataGenerator)**  
+- **[IkiDataGenerator](https://github.com/ikidevz/IkiDataGenerator)**
+  ![IkiDataGenerator](https://raw.githubusercontent.com/ikidevz/IkiDataGenerator/refs/heads/main/assets/cover.png)
   Generate realistic synthetic data with **700+ fields** across 22 categories. Supports CSV, Parquet, JSON, SQL, Excel, DuckDB, and more. Perfect for testing, demos, and privacy-safe development.
 
-- **[ikiapikit](https://github.com/ikidevz/ikiapikit)**  
+- **[ikiapikit](https://github.com/ikidevz/ikiapikit)**
+  ![ikiapikit](https://raw.githubusercontent.com/ikidevz/ikiapikit/main/assets/cover.png)
   The Swiss-army knife for REST & GraphQL APIs. One elegant interface for pagination, retries, DataFrames (Polars/Pandas), streaming, file exports (Parquet/NDJSON), and more. Built for data ingestion at scale.
 
-- **[Iki_Scraper](https://github.com/ikidevz/Iki_Scraper)**  
+- **[Iki_Scraper](https://github.com/ikidevz/Iki_Scraper)**
+  ![Iki_Scraper](https://tdhghaslnufgtzjybhhf.supabase.co/storage/v1/object/public/content/Data%20Tools%20Scripts/Iki-Scraper/img_cover.png)
   Advanced asynchronous web scraping framework powered by Playwright. Clean verb-first API with structured extraction, table parsing, change detection, resumable runs, and sitemap discovery.
 
-- **[Iki_PII_Masker](https://github.com/ikidevz/Iki_PII_Masker)**  
+- **[Iki_PII_Masker](https://github.com/ikidevz/Iki_PII_Masker)**
+  ![IkiDataGenerator](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
   Fast, pipe-friendly CLI + library for sanitizing PII. 10+ strategies (fake, redact, hash, reversible AES, etc.), auto-detection, multi-format support, and dry-run capabilities.
 
-- **[Iki_DQ_Check](https://github.com/ikidevz/Iki_DQ_Check)**  
+- **[Iki_DQ_Check](https://github.com/ikidevz/Iki_DQ_Check)**
+  ![Iki_DQ_Check](https://tdhghaslnufgtzjybhhf.supabase.co/storage/v1/object/public/content/Data%20Tools%20Scripts/Iki-DQ-Check/cover.png) 
   Production-grade data quality validation with 25+ checks across Lite/Standard/Advanced tiers. Python-native config, CLI, and universal facade for Pandas, Polars, DuckDB, SQL, etc.
 
 ## 📂 Other Key Projects
