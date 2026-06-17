@@ -18,14 +18,14 @@
   </p>
   <br/>
 
-  <!-- Tech Badges -->
+   <!-- Tech Badges -->
   <img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/dbt-Experienced-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
-  <img src="https://img.shields.io/badge/Airflow-Experienced-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow" />
-  <img src="https://img.shields.io/badge/Spark-Experienced-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Spark" />
-  <img src="https://img.shields.io/badge/Kafka-Experienced-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka" />
-  <img src="https://img.shields.io/badge/Delta%20Lake-Lakehouse-00ADD8?style=for-the-badge&logo=delta&logoColor=white" alt="Delta Lake" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-Experienced-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-Experienced-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-Experienced-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/Delta%20Lake-00ADD8?style=for-the-badge&logo=delta&logoColor=white" alt="Delta Lake" />
   <br/><br/>
 
   <!-- Social -->
@@ -42,6 +42,21 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
+
+### 🔧 Visual Tech Stack
+
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![TimescaleDB](https://img.shields.io/badge/TimescaleDB-003B77?style=flat-square&logo=timescale&logoColor=white)
+![Polars](https://img.shields.io/badge/polars-FF4C4C?style=flat-square&logo=polars&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 ## 🚀 Featured Tools & Utilities
 
