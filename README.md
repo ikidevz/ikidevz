@@ -86,19 +86,19 @@ These are my **production-ready, open-source tools** designed to solve real pain
 
 - **[ETL_PH_Retail_Omnichannel](https://github.com/ikidevz/ETL_PH_Retail_Omnichannel)**
   ![ETL_PH_Retail_Omnichannel](https://tdhghaslnufgtzjybhhf.supabase.co/storage/v1/object/public/content/ETL%20Engineer%20Portfoilo/ph_retail_omnichannel.png) 
-  End-to-end ELT pipeline for a Philippine retail chain operating across online channels (Lazada, Shopee, SM Online) and physical stores (BGC, Cebu, Davao). Consolidates sales, inventory, customer, and supply chain data into a Kimball star schema on Snowflake for business analytics and dashboarding.
+  Omnichannel retail ELT pipeline (Lazada, Shopee, physical stores) → **Kimball star schema** on Snowflake. Includes sales, inventory, and supply chain analytics.
 
 - **[ETL PH Banking AML](https://github.com/ikidevz/ETL_ph_banking_aml)**
   ![ETL PH Banking AML](https://tdhghaslnufgtzjybhhf.supabase.co/storage/v1/object/public/content/ETL%20Engineer%20Portfoilo/ph_banking_aml.png) 
-  End-to-end ELT pipeline simulating a BSP AMLA-compliant Anti-Money Laundering system for a Philippine bank — built on Data Vault 2.0 + Snowflake + dbt + Airflow 3.x, with Snowflake Stream CDC, dual-layer PII masking, Jaro-Winkler watchlist fuzzy matching, and regulatory-shaped CTR/STR marts ready for BSP filing
+  BSP-compliant Anti-Money Laundering system using **Data Vault 2.0**, Snowflake Streams CDC, PII masking, fuzzy matching, and regulatory reporting marts.
 
 - **[ETL_PH_Logistics_Port_Congestion](https://github.com/ikidevz/ETL_ph_logistics_port_congestion)**
   ![ETL_PH_Logistics_Port_Congestion](https://tdhghaslnufgtzjybhhf.supabase.co/storage/v1/object/public/content/ETL%20Engineer%20Portfoilo/ph_logistic_congestion.png) 
-  End-to-end ELT pipeline tracking shipment delays, port congestion, and landed cost across five major Philippine international ports (MICT, Batangas, Cebu, Davao, Subic). Implements a Kimball star schema on Snowflake with Dynamic Tables for near-real-time congestion scoring — no Kafka, no streaming infrastructure
+  Port operations and congestion monitoring with **Kimball modeling + Snowflake Dynamic Tables** for near-real-time insights (no external streaming required).
 
 - **[ETL_PH-Multi-Subsidiary-Enterprise-Data-Warehouse](https://github.com/ikidevz/ETL_PH-Multi-Subsidiary-Enterprise-Data-Warehouse)**
   ![ETL_PH-Multi-Subsidiary-Enterprise-Data-Warehouse](https://tdhghaslnufgtzjybhhf.supabase.co/storage/v1/object/public/content/ETL%20Engineer%20Portfoilo/ph_multi_subsdridary.png) 
-  A portfolio-grade enterprise data warehouse designed to unify five subsidiaries operating in different industries and using different source systems into one governed reporting layer. The ambition is not just to move data from point A to point B, but to create a trusted, conformed foundation for finance, operations, and executive reporting.
+  Enterprise Data Warehouse unifying 5 subsidiaries across industries with **3NF integration layer** and conformed marts for group finance, operations, and executive reporting.
 
 ## 📂 Other Key Projects
 
