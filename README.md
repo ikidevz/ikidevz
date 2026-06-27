@@ -82,7 +82,7 @@ These are my **production-ready, open-source tools** designed to solve real pain
   ![Iki_DQ_Check](https://tdhghaslnufgtzjybhhf.supabase.co/storage/v1/object/public/content/Data%20Tools%20Scripts/Iki-DQ-Check/cover.png) 
   Production-grade data quality validation with 25+ checks across Lite/Standard/Advanced tiers. Python-native config, CLI, and universal facade for Pandas, Polars, DuckDB, SQL, etc.
 
-## 🚀 ETL Pipeline 
+## 📊 Featured ETL & Data Warehouse Projects
 
 - **[ETL_PH_Retail_Omnichannel](https://github.com/ikidevz/ETL_PH_Retail_Omnichannel)**
   ![ETL_PH_Retail_Omnichannel](https://tdhghaslnufgtzjybhhf.supabase.co/storage/v1/object/public/content/ETL%20Engineer%20Portfoilo/ph_retail_omnichannel.png) 
