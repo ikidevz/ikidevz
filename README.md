@@ -100,6 +100,10 @@ These are my **production-ready, open-source tools** designed to solve real pain
   ![ETL_PH-Multi-Subsidiary-Enterprise-Data-Warehouse](https://tdhghaslnufgtzjybhhf.supabase.co/storage/v1/object/public/content/ETL%20Engineer%20Portfoilo/ph_multi_subsdridary.png) 
   Enterprise Data Warehouse unifying 5 subsidiaries across industries with **3NF integration layer** and conformed marts for group finance, operations, and executive reporting.
 
+- **[ETL_PH-Corporate-Finance-FP-A](https://github.com/ikidevz/ETL_PH-Corporate-Finance-FP-A)**
+  ![ETL_PH-Corporate-Finance-FP-A](https://tdhghaslnufgtzjybhhf.supabase.co/storage/v1/object/public/content/ETL%20Engineer%20Portfoilo/ph_multi_subsdridary.png)
+  An end-to-end Kimball data warehouse built on Snowflake + dbt + Airflow — purpose-built for Filipino corporate FP&A: actual vs. budget variance, consolidated P&L, rolling forecasts, and cash flow statements across a multi-subsidiary group.
+
 ## 📂 Other Key Projects
 
 End-to-end data engineering implementations (pipelines, lakehouses, analytics platforms):
