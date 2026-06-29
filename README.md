@@ -131,10 +131,13 @@ End-to-end data engineering implementations (pipelines, lakehouses, analytics pl
 *(Full badge wall available in the original if you want to keep it.)*
 
 ## 🎓 Certifications
-- Data Engineer Professional Certificate – 365 Data Science
-- DeepLearning.AI Data Engineering (Coursera)
-- Data Scientist & Data Analyst Certificates – 365 Data Science
-- IBM Data Science & Data Analyst Specializations (Coursera)
+
+- **[Data Engineer Professional Certificate](https://learn.365datascience.com/certificates/DD-0FA99845A0/)** — 365 Data Science
+- **[Data Engineering Professional](https://www.coursera.org/account/accomplishments/professional-cert/1AT47XEDRYSM)** — DeepLearning.AI (Coursera)
+- **[Data Scientist Certificate](https://www.coursera.org/account/accomplishments/specialization/2QEGUBE3VTFZ)** — 365 Data Science
+- **[Data Analyst Certificate](https://www.coursera.org/account/accomplishments/specialization/7SNWN9YKGZVR)** — 365 Data Science
+- **[IBM Data Science Specialization](https://learn.365datascience.com/certificates/DD-DFAA0CDAE2/)** — IBM (Coursera)
+- **[IBM Data Analyst Specialization](https://learn.365datascience.com/certificates/DD-46F49544DE/)** — IBM (Coursera)
 
 ## 🎧 Currently Playing
 <p align="center">
