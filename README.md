@@ -104,6 +104,11 @@ These are my **production-ready, open-source tools** designed to solve real pain
   ![ETL_PH-Corporate-Finance-FP-A](https://tdhghaslnufgtzjybhhf.supabase.co/storage/v1/object/public/content/ETL%20Engineer%20Portfoilo/ph_corporate_fpna_analytics.png)
   An end-to-end Kimball data warehouse built on Snowflake + dbt + Airflow — purpose-built for Filipino corporate FP&A: actual vs. budget variance, consolidated P&L, rolling forecasts, and cash flow statements across a multi-subsidiary group.
 
+## 🚀 Boilerplate Project 
+- **[Enterprise FastAPI Boilerplate](https://github.com/ikidevz/Enterprise-FastAPI-Boilerplate)**
+  ![Enterprise FastAPI Boilerplate](https://tdhghaslnufgtzjybhhf.supabase.co/storage/v1/object/public/content/Enterprise%20FastAPI%20Boilerplate/cover.png)
+  A production-oriented FastAPI starter project built around a pragmatic enterprise-ready architecture. It is designed to be easy to understand, straightforward to extend, and suitable for building serious backend services without starting from a completely empty scaffold.
+
 ## 📂 Other Key Projects
 
 End-to-end data engineering implementations (pipelines, lakehouses, analytics platforms):
