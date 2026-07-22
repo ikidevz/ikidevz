@@ -88,9 +88,9 @@ These are my **production-ready, open-source tools** designed to solve real pain
 
 ## 📊 Featured ETL & Data Warehouse Projects
 
-- **[ETL_PH_Retail_Omnichannel](https://github.com/ikidevz/ETL_PH_Retail_Omnichannel)**
-  ![ETL_PH_Retail_Omnichannel](https://tdhghaslnufgtzjybhhf.supabase.co/storage/v1/object/public/content/ETL%20Engineer%20Portfoilo/ph_retail_omnichannel.png) 
-  Omnichannel retail ELT pipeline (Lazada, Shopee, physical stores) → **Kimball star schema** on Snowflake. Includes sales, inventory, and supply chain analytics.
+- **[Enterprise-Holdings-Multi-Subsidiary-Data-Platform](https://github.com/ikidevz/Enterprise-Holdings-Multi-Subsidiary-Data-Platform)**
+  ![Enterprise-Holdings-Multi-Subsidiary-Data-Platform](https://raw.githubusercontent.com/ikidevz/Enterprise-Holdings-Multi-Subsidiary-Data-Platform/main/assets/image.png) 
+  A fully idempotent, end-to-end enterprise data platform for a 10-subsidiary Philippine-style conglomerate — from synthetic source data to executive dashboards.
 
 - **[ETL PH Banking AML](https://github.com/ikidevz/ETL_ph_banking_aml)**
   ![ETL PH Banking AML](https://tdhghaslnufgtzjybhhf.supabase.co/storage/v1/object/public/content/ETL%20Engineer%20Portfoilo/ph_banking_aml.png) 
