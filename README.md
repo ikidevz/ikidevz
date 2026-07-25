@@ -6,16 +6,17 @@
   <br/>
 
   <p>
-    <strong>5+ years crafting production-grade data solutions</strong> — from full-stack web development to designing robust ETL pipelines, lakehouses, real-time systems, and analytics platforms.
-  </p>
+  <strong>Software Engineer transitioning into Data Engineering</strong> with 5+ years of professional software development experience. I now focus on designing reliable ETL/ELT pipelines, data warehouses, analytics platforms, and open-source tooling for modern data engineering workflows.
+</p>
 
-  <p>
-    I specialize in <strong>end-to-end data platforms</strong>: medallion architectures, streaming pipelines, reliable ETL/ELT, dimensional modeling, data quality, and analytics-ready marts — with strong experience in fintech, logistics, and remittance use cases.
-  </p>
+<p>
+  My work centers on <strong>end-to-end data platforms</strong>—from data ingestion and orchestration to dimensional modeling, data quality, governance, privacy, and analytics-ready warehouses. I enjoy building deterministic, maintainable systems that solve practical data engineering problems.
+</p>
 
-  <p>
-    <em>Actively seeking mid-level Data Engineer, ETL Developer, or Data Warehouse Engineer roles (remote / Philippines-based). Open to collaborations on impactful data projects!</em>
-  </p>
+<p>
+  <em>Actively seeking Data Engineer, ETL Developer, or Data Warehouse Engineer opportunities (remote or Philippines-based). I'm passionate about building reliable data infrastructure and contributing to production-scale data platforms.</em>
+</p>
+
   <br/>
 
    <!-- Tech Badges -->
