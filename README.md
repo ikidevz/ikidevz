@@ -15,9 +15,31 @@
 
 </div>
 
+## 🧭 Background
+
+I spent 5+ years as a **full-stack web developer**, building and shipping production systems end-to-end — REST APIs, database design, deployment pipelines, and systems that had to hold up under real users and real data. That work is what pulled me toward data engineering in the first place: I kept finding myself more interested in *how data moved and stayed correct* than in the UI sitting on top of it.
+
+What carries over directly:
+- **API & backend design** → building resilient ingestion layers and integration points (see `ikiapikit`)
+- **Database schema design** → dimensional modeling, Data Vault 2.0, and warehouse design
+- **CI/CD & deployment discipline** → orchestration, idempotent pipelines, and production-grade tooling instead of one-off scripts
+- **Debugging distributed, stateful systems** → the same muscle used for data quality issues, CDC, and pipeline failures at scale
+
+The projects below are self-directed — mostly built on synthetic data by design, so I could safely model realistic scale and edge cases (multi-subsidiary finance, regulatory reporting, PII) without needing access to a company's real production data. They're meant to demonstrate architectural judgment, not just tool familiarity.
+
 <br/>
 
-## 🧰 Tech Stack
+## ⭐ Start Here: Flagship Project
+
+**[Enterprise Holdings Multi-Subsidiary Data Platform](https://github.com/ikidevz/Enterprise-Holdings-Multi-Subsidiary-Data-Platform)**
+
+A fully idempotent, end-to-end data platform modeled on a 10-subsidiary conglomerate — the project I'd point to first if you only have time to look at one.
+
+- Synthetic source data generation → orchestrated ingestion → integration layer → conformed marts → executive dashboards
+- Designed to be re-run safely at any point without duplicating or corrupting data (idempotency by design, not an afterthought)
+- Covers the full breadth of the stack: Airflow orchestration, dbt transformations, dimensional modeling, and BI-ready outputs across finance, operations, and group reporting
+
+<br/>
 
 <div align="center">
 
@@ -137,11 +159,10 @@ Pragmatic, enterprise-ready FastAPI starter — easy to extend, built for real b
 
 <br/>
 
-## 📊 Featured Data Engineering Projects
+## 📊 More Data Engineering Projects
 
 | Project | What it demonstrates |
 |---|---|
-| **[Enterprise Holdings Multi-Subsidiary Data Platform](https://github.com/ikidevz/Enterprise-Holdings-Multi-Subsidiary-Data-Platform)** | Fully idempotent, end-to-end platform for a 10-subsidiary conglomerate — synthetic source data through to executive dashboards |
 | **[ETL PH Banking AML](https://github.com/ikidevz/ETL_ph_banking_aml)** | BSP-compliant AML system using **Data Vault 2.0**, Snowflake Streams CDC, PII masking, fuzzy matching, and regulatory reporting marts |
 | **[PH Logistics Port Congestion](https://github.com/ikidevz/ETL_ph_logistics_port_congestion)** | Port monitoring using **Kimball modeling + Snowflake Dynamic Tables** for near-real-time insight without external streaming |
 | **[PH Multi-Subsidiary Enterprise DW](https://github.com/ikidevz/ETL_PH-Multi-Subsidiary-Enterprise-Data-Warehouse)** | Enterprise warehouse unifying 5 subsidiaries via a **3NF integration layer** and conformed marts for finance, ops, and reporting |
@@ -156,8 +177,8 @@ Pragmatic, enterprise-ready FastAPI starter — easy to extend, built for real b
 - **[Retail Medallion Data Pipeline](https://github.com/ikidevz/Retail-Medallion-Data-Pipeline)** — Bronze → Silver → Gold with Polars and a Star Schema
 - **[BSP-AMLA Compliance Pipeline](https://github.com/ikidevz/BSP-AMLA-Compliance-Suspicious-Transaction-Reporting-Pipeline)** — Synthetic banking data with AML detection & reporting
 - **[PH Multi-Subsidiary Data Lakehouse](https://github.com/ikidevz/PH-Multi-Subsidiary-Data-Lakehouse)** — CDC via Debezium + Kafka + Airflow + Superset
-- **[RemitFlowPH](https://github.com/ikigamisama/RemitFlowPH)** — Microservices remittance pipeline, TimescaleDB + Streamlit
-- **[ETL-Table-Driven](https://github.com/ikigamisama/ETL-Table-Driven)** — Metadata-driven framework for zero-code pipeline additions
+- **[RemitFlowPH](https://github.com/ikidevz/RemitFlowPH)** — Microservices remittance pipeline, TimescaleDB + Streamlit
+- **[ETL-Table-Driven](https://github.com/ikidevz/ETL-Table-Driven)** — Metadata-driven framework for zero-code pipeline additions
 - Multiple production-grade **Streamlit + Plotly** dashboards covering supply chain, retail sales, customer cohorts, churn, and marketing analytics
 
 </details>
