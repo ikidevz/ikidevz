@@ -71,10 +71,6 @@ These are my **production-ready, open-source tools** designed to solve real pain
   ![ikiapikit](https://raw.githubusercontent.com/ikidevz/ikiapikit/main/assets/cover.png)
   The Swiss-army knife for REST & GraphQL APIs. One elegant interface for pagination, retries, DataFrames (Polars/Pandas), streaming, file exports (Parquet/NDJSON), and more. Built for data ingestion at scale.
 
-- **[Iki_Scraper](https://github.com/ikidevz/Iki_Scraper)**
-  ![Iki_Scraper](https://tdhghaslnufgtzjybhhf.supabase.co/storage/v1/object/public/content/Data%20Tools%20Scripts/Iki-Scraper/img_cover.png)
-  Advanced asynchronous web scraping framework powered by Playwright. Clean verb-first API with structured extraction, table parsing, change detection, resumable runs, and sitemap discovery.
-
 - **[IkiProtect](https://github.com/ikidevz/IkiProtect)**
   ![IkiProtect](https://raw.githubusercontent.com/ikidevz/IkiProtect/main/assets/image.png)
   One tool. Every data-protection primitive you'll ever need.
@@ -83,9 +79,21 @@ These are my **production-ready, open-source tools** designed to solve real pain
   ![Iki_PII_Masker](https://raw.githubusercontent.com/ikidevz/Iki_PII_Masker/main/assets/image.png)
   Fast, pipe-friendly CLI + library for sanitizing PII. 10+ strategies (fake, redact, hash, reversible AES, etc.), auto-detection, multi-format support, and dry-run capabilities.
 
+- **[IkiSchema](https://github.com/ikidevz/IkiSchema)**
+  ![IKischema](https://raw.githubusercontent.com/ikidevz/IkiSchema/main/assets/image.png)
+  Infer, compare, and validate data schemas
+
+- **[IkiChunk](https://github.com/ikidevz/IkiChunk)**
+  ![IkiChunk](https://raw.githubusercontent.com/ikidevz/IkiChunk/main/assets/image.png)
+  One facade, zero required dependencies—tackle common data engineering tasks with minimal code.
+
 - **[Iki Data Governance](https://github.com/ikidevz/ikidgov-Iki-Data-Goverance)**
   ![Iki Data Governance](https://raw.githubusercontent.com/ikidevz/ikidgov-Iki-Data-Goverance/main/assets/image.png)
   A lightweight, composable data governance toolkit for scanning data sources, classifying columns, and evaluating role-based access policies — without requiring a large platform migration.
+
+- **[Iki_Scraper](https://github.com/ikidevz/Iki_Scraper)**
+  ![Iki_Scraper](https://tdhghaslnufgtzjybhhf.supabase.co/storage/v1/object/public/content/Data%20Tools%20Scripts/Iki-Scraper/img_cover.png)
+  Advanced asynchronous web scraping framework powered by Playwright. Clean verb-first API with structured extraction, table parsing, change detection, resumable runs, and sitemap discovery.
 
 - **[Iki_DQ_Check](https://github.com/ikidevz/Iki_DQ_Check)**
   ![Iki_DQ_Check](https://tdhghaslnufgtzjybhhf.supabase.co/storage/v1/object/public/content/Data%20Tools%20Scripts/Iki-DQ-Check/cover.png) 
