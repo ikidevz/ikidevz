@@ -33,11 +33,26 @@ The projects below are self-directed — mostly built on synthetic data by desig
 
 **[Enterprise Holdings Multi-Subsidiary Data Platform](https://github.com/ikidevz/Enterprise-Holdings-Multi-Subsidiary-Data-Platform)**
 
+![Cover_Image](https://raw.githubusercontent.com/ikidevz/Enterprise-Holdings-Multi-Subsidiary-Data-Platform/main/assets/image.png)
+
 A fully idempotent, end-to-end data platform modeled on a 10-subsidiary conglomerate — the project I'd point to first if you only have time to look at one.
 
 - Synthetic source data generation → orchestrated ingestion → integration layer → conformed marts → executive dashboards
 - Designed to be re-run safely at any point without duplicating or corrupting data (idempotency by design, not an afterthought)
 - Covers the full breadth of the stack: Airflow orchestration, dbt transformations, dimensional modeling, and BI-ready outputs across finance, operations, and group reporting
+
+
+**[Enterprise FastAPI — Tier 4 Architecture](https://github.com/ikidevz/Enterprise-Tier-4-Architecture-Boilerplate)**
+
+![Cover_Image](https://raw.githubusercontent.com/ikidevz/Enterprise-Tier-4-Architecture-Boilerplate/main/assets/image.png)
+
+A production-shaped, async **multi-tenant SaaS backend** built on FastAPI.  
+It’s a reference implementation of the patterns a real backend needs once it grows past a single-tenant CRUD app — the project I’d point to first if you only have time to look at one.
+
+- Layered architecture (models / repositories / schemas / services / api) → multi-tenancy + RBAC → transactional outbox + CQRS read models → background worker → OpenTelemetry tracing
+- Designed so every write path is atomic and every background relay is safe to retry — idempotency and consistency by design, not bolted on later
+- Covers the full breadth of the stack: FastAPI + Starlette, SQLAlchemy 2.0 (async), PostgreSQL, Redis, Arq, Alembic, JWT + API-key auth, audit logging, rate limiting, hardened uploads, and 67 tests that run against in-memory SQLite with zero external infrastructure
+
 
 <br/>
 
