@@ -47,6 +47,18 @@ The projects below are self-directed — mostly built on synthetic data by desig
 
 <br/>
 
+| Category | Tools | Level |
+|---|---|---|
+| **Core** | Python, SQL | Advanced |
+| **Orchestration** | Apache Airflow, dbt, Docker | Experienced |
+| **Data Platforms** | Spark, Kafka, Delta Lake, PostgreSQL, TimescaleDB | Experienced |
+| **Data Quality & Governance** | Great Expectations, Iki_DQ_Check, PII handling | Experienced |
+| **APIs & Ingestion** | ikiapikit, FastAPI, async scraping | Experienced |
+| **Analytics** | Pandas, Polars, Streamlit, Plotly, Superset/Metabase | Intermediate |
+| **Web / DevOps** | React/Next.js, Git, CI/CD, Heroku, Vercel, DigitalOcean | Intermediate |
+
+<br/>
+
 ## ⭐ Start Here: Flagship Project
 
 **[Enterprise Holdings Multi-Subsidiary Data Platform](https://github.com/ikidevz/Enterprise-Holdings-Multi-Subsidiary-Data-Platform)**
@@ -74,18 +86,6 @@ It’s a reference implementation of the patterns a real backend needs once it g
 
 <br/>
 
-
-| Category | Tools | Level |
-|---|---|---|
-| **Core** | Python, SQL | Advanced |
-| **Orchestration** | Apache Airflow, dbt, Docker | Experienced |
-| **Data Platforms** | Spark, Kafka, Delta Lake, PostgreSQL, TimescaleDB | Experienced |
-| **Data Quality & Governance** | Great Expectations, Iki_DQ_Check, PII handling | Experienced |
-| **APIs & Ingestion** | ikiapikit, FastAPI, async scraping | Experienced |
-| **Analytics** | Pandas, Polars, Streamlit, Plotly, Superset/Metabase | Intermediate |
-| **Web / DevOps** | React/Next.js, Git, CI/CD, Heroku, Vercel, DigitalOcean | Intermediate |
-
-<br/>
 
 ## 🚀 Featured Tools & Utilities
 
