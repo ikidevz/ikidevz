@@ -4,9 +4,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&width=700&lines=Data+Engineer+%7C+ETL+%26+Pipeline+Developer;Data+Warehouse+%26+Analytics+Platform+Builder;Building+Scalable%2C+Deterministic+Data+Infrastructure;Python+%7C+SQL+%7C+Modern+Data+Stack" alt="Typing SVG" />
 
-<p><b>Software Engineer turned Data Engineer</b>, with 5+ years of professional dev experience now focused on building reliable, production-grade data platforms — from ingestion and orchestration to dimensional modeling, data quality, governance, and analytics-ready warehouses.</p>
-
-<p>🟢 <b>Open to:</b> Data Engineer · ETL Developer · Data Warehouse Engineer roles (Remote / Philippines)</p>
+<p><b>Software Engineer turned Data Engineer</b>, with 5+ years of experience building production-grade data platforms — ingestion, orchestration, modeling, quality, and governance. Focused on systems that hold up in real-world environments.</p>
+<p>🟢 <b>Open to:</b> Data Engineer · Forward Deployed Engineer · ETL / Data Warehouse roles (Remote / Philippines)</p>
 
 <a href="https://www.linkedin.com/in/franz-monzales" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://twitter.com/ikigamidevs" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
